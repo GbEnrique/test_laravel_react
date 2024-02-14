@@ -1,0 +1,47 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend_midcenturywareho/node_modules
+/frontend_midcenturywareho/.pnp
+/frontend_midcenturywareho/.pnp.js
+
+# testing
+/frontend_midcenturywareho/coverage
+
+# production
+/frontend_midcenturywareho/build
+
+# misc
+/frontend_midcenturywareho/.DS_Store
+/frontend_midcenturywareho/.env.local
+/frontend_midcenturywareho/.env.development.local
+/frontend_midcenturywareho/.env.test.local
+/frontend_midcenturywareho/.env.production.local
+
+/frontend_midcenturywareho/npm-debug.log*
+/frontend_midcenturywareho/yarn-debug.log*
+/frontend_midcenturywareho/yarn-error.log*
+
+
+
+#GIT IGNORE LARAVEL
+
+/midcenturywareho/.phpunit.cache
+/midcenturywareho/node_modules
+/midcenturywareho/public/build
+/midcenturywareho/public/hot
+/midcenturywareho/public/storage
+/midcenturywareho/storage/*.key
+/midcenturywareho/vendor
+/midcenturywareho/.env
+/midcenturywareho/.env.backup
+/midcenturywareho/.env.production
+/midcenturywareho/.phpunit.result.cache
+/midcenturywareho/Homestead.json
+/midcenturywareho/Homestead.yaml
+/midcenturywareho/auth.json
+/midcenturywareho/npm-debug.log
+/midcenturywareho/yarn-error.log
+/midcenturywareho/.fleet
+/midcenturywareho/.idea
+/midcenturywareho/.vscode
